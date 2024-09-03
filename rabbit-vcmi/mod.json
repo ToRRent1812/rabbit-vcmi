@@ -1,15 +1,16 @@
 {
 	"name" : "Rabbit VCMI",
-	"description" : "Paczka modów, której używamy do wspólnego grania",
+	"description" : "INSTRUKCJA, URUCHOM MOD, WYSKOCZY BŁĄD ŻE MUSISZ WYŁĄCZYĆ INNY MOD, ZRÓB TAK JAK JEST NAPISANE DLA KILKU MODÓW.",
 	"modType" : "Expansion",
 	"author" : "Rabbit",
 	"contact" : "",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-	"version" : "0.0.4",
+	"version" : "0.0.5",
 	"downloadSize" : 1,
 	"changelog" :
 	{
+		"0.0.5" : [ "Mod musi być wyłączony na start, bo się pierdoli"],
 		"0.0.4" : [ "Próba włączenia Deadland ale wyłączenia death-valley connector"],
 		"0.0.3" : [ "Wyrzuciłem warzyw-templates"],
 		"0.0.2" : [ "Próba naprawienia kompatybilności"],
@@ -39,5 +40,5 @@
 		"newtown-terrains.deadlandTerrain.death-valley-connector",
 		"newtown-terrains.spoiledLand"
 	],
-	"keepDisabled" : false
+	"keepDisabled" : true
 }
