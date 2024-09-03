@@ -6,15 +6,16 @@
 	"contact" : "",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-	"version" : "0.0.1",
+	"version" : "0.0.2",
 	"downloadSize" : 1,
 	"changelog" :
 	{
+		"0.0.2" : [ "Próba naprawienia kompatybilności"],
 		"0.0.1" : [ "Przygoda rozpoczęta" ]
 	},
 	"compatibility" :
 	{
-		"min" : "1.5.0"
+		"min" : "1.5.7"
 	},
 	"depends" :
 	[
@@ -33,5 +34,5 @@
 		"hota.mainMenu",
 		"tides-of-war.tow-main-menu",
 	],
-	"keepDisabled" : false
+	"keepDisabled" : true
 }
