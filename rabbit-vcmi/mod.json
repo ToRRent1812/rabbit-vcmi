@@ -6,10 +6,11 @@
 	"contact" : "",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-	"version" : "0.0.3",
+	"version" : "0.0.4",
 	"downloadSize" : 1,
 	"changelog" :
 	{
+		"0.0.4" : [ "Próba włączenia Deadland ale wyłączenia death-valley connector"],
 		"0.0.3" : [ "Wyrzuciłem warzyw-templates"],
 		"0.0.2" : [ "Próba naprawienia kompatybilności"],
 		"0.0.1" : [ "Przygoda rozpoczęta" ]
@@ -26,7 +27,8 @@
 		"haven-town",
 		"heroes-iii-orchestra",
 		"newtown-terrains",
-		"newtown-terrains.heatherThicket.grove-connect"
+		"newtown-terrains.heatherThicket.grove-connect",
+		"newtown-terrains.deadlandTerrain"
 
 	],
 	"conflicts" :
@@ -34,6 +36,7 @@
 		"hota.mainMenu",
 		"tides-of-war.tow-main-menu",
 		"newtown-terrains.terraceLand.retreat-connect",
+		"newtown-terrains.deadlandTerrain.death-valley-connector",
 		"newtown-terrains.spoiledLand"
 	],
 	"keepDisabled" : false
