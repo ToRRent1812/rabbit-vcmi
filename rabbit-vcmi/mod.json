@@ -36,6 +36,7 @@
 	"conflicts" :
 	[
 		"hota.mainMenu",
+		"vcmi-extras.truetypefonts",
 		"tides-of-war.tow-main-menu",
 		"newtown-terrains.terraceLand.retreat-connect",
 		"newtown-terrains.deadlandTerrain.death-valley-connector",

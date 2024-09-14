@@ -1,0 +1,69 @@
+{
+  "bitmap": [
+    "BIGFONT",
+    "CALLI10R",
+    "CREDITS",
+    "HISCORE",
+    "MEDFONT",
+    "SMALFONT",
+    "TIMES08R",
+    "TINY",
+    "VERD10B"
+  ],
+
+  "trueType": {
+    "BIGFONT": {
+      "file": "MDGROTESQUE-Regular.ttf",
+      "size": 22,
+      "blend": true
+    },
+
+    "CALLI10R": {
+      "file": "MDGROTESQUE-Regular.ttf",
+      "size": 10,
+      "blend": true
+    },
+
+    "CREDITS": {
+      "file": "MDGROTESQUE-Regular.ttf",
+      "size": 28,
+      "blend": true
+    },
+
+    "HISCORE": {
+      "file": "MDGROTESQUE-Regular.ttf",
+      "size": 13,
+      "blend": true
+    },
+
+    "MEDFONT": {
+      "file": "MDGROTESQUE-Regular.ttf",
+      "size": 16,
+      "blend": true
+    },
+
+    "SMALFONT": {
+      "file": "MDGROTESQUE-Regular.ttf",
+      "size": 13,
+      "blend": true
+    },
+
+    "TIMES08R": {
+      "file": "MDGROTESQUE-Regular.ttf",
+      "size": 11,
+      "blend": true
+    },
+
+    "TINY": {
+      "file": "MDGROTESQUE-Regular.ttf",
+      "size": 11,
+      "blend": true
+    },
+
+    "VERD10B": {
+      "file": "MDGROTESQUE-Regular.ttf",
+      "size": 13,
+      "blend": true
+    }
+  }
+}
