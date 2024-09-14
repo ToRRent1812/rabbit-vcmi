@@ -6,10 +6,12 @@
 	"contact" : "",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-	"version" : "0.0.6",
+	"version" : "0.0.8",
 	"downloadSize" : 1,
 	"changelog" :
 	{
+		"0.0.8" : [ "Nowy font"],
+		"0.0.7" : [ "Nowy font"],
 		"0.0.6" : [ "Nowa instrukcja"],
 		"0.0.5" : [ "Mod musi być wyłączony na start, bo się pierdoli"],
 		"0.0.4" : [ "Próba włączenia Deadland ale wyłączenia death-valley connector"],
@@ -36,6 +38,7 @@
 	"conflicts" :
 	[
 		"hota.mainMenu",
+		"vcmi-extras.truetypefonts",
 		"tides-of-war.tow-main-menu",
 		"newtown-terrains.terraceLand.retreat-connect",
 		"newtown-terrains.deadlandTerrain.death-valley-connector",
