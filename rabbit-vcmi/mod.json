@@ -6,10 +6,44 @@
 	"contact" : "",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-	"version" : "0.0.8",
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+	"version" : "0.1.2",
+=======
+	"version" : "0.1.3",
+>>>>>>> 36faf2d (0.1.3)
 	"downloadSize" : 1,
 	"changelog" :
 	{
+		"0.1.3" : [ "Usunięto konflikt z modem true type fonts"],
+		"0.1.2" : [ "Custom font usunięty"],
+		"0.1.1" : [ "Próba zwiększenia movementu"],
+		"0.1.0" : [ "Nowy font"],
+=======
+	"version" : "0.0.9",
+	"downloadSize" : 1,
+	"changelog" :
+	{
+>>>>>>> af9b70b (0.0.9.1)
+=======
+	"version" : "0.1.0",
+=======
+	"version" : "0.1.1",
+>>>>>>> ab82bc2 (0.1.1)
+=======
+	"version" : "0.1.2",
+>>>>>>> 2faf10f (0.1.2)
+	"downloadSize" : 1,
+	"changelog" :
+	{
+		"0.1.2" : [ "Custom font usunięty"],
+		"0.1.1" : [ "Próba zwiększenia movementu"],
+		"0.1.0" : [ "Nowy font"],
+>>>>>>> 76f1b4c (0.1.0)
+		"0.0.9" : [ "Nowy font"],
 		"0.0.8" : [ "Nowy font"],
 		"0.0.7" : [ "Nowy font"],
 		"0.0.6" : [ "Nowa instrukcja"],
@@ -38,11 +72,31 @@
 	"conflicts" :
 	[
 		"hota.mainMenu",
-		"vcmi-extras.truetypefonts",
 		"tides-of-war.tow-main-menu",
 		"newtown-terrains.terraceLand.retreat-connect",
 		"newtown-terrains.deadlandTerrain.death-valley-connector",
 		"newtown-terrains.spoiledLand"
 	],
+	"settings" :
+	{
+		"spells":
+		{
+            "dimensionDoorTournamentRulesLimit" : true
+        },
+        "pathfinder" :
+		{
+			"originalFlyRules" : false
+		},
+		"bonuses" :
+		{
+			"perHero" :
+			{
+				"landMovement" :
+				{
+					"val" : 1800
+				}
+			}
+		}
+	{,
 	"keepDisabled" : false
 }
