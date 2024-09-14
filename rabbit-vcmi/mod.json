@@ -9,6 +9,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	"version" : "0.1.2",
 	"downloadSize" : 1,
 	"changelog" :
@@ -27,9 +28,13 @@
 =======
 	"version" : "0.1.1",
 >>>>>>> ab82bc2 (0.1.1)
+=======
+	"version" : "0.1.2",
+>>>>>>> 2faf10f (0.1.2)
 	"downloadSize" : 1,
 	"changelog" :
 	{
+		"0.1.2" : [ "Custom font usunięty"],
 		"0.1.1" : [ "Próba zwiększenia movementu"],
 		"0.1.0" : [ "Nowy font"],
 >>>>>>> 76f1b4c (0.1.0)
