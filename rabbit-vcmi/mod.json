@@ -8,6 +8,7 @@
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	"version" : "0.1.2",
 	"downloadSize" : 1,
 	"changelog" :
@@ -23,9 +24,13 @@
 >>>>>>> af9b70b (0.0.9.1)
 =======
 	"version" : "0.1.0",
+=======
+	"version" : "0.1.1",
+>>>>>>> ab82bc2 (0.1.1)
 	"downloadSize" : 1,
 	"changelog" :
 	{
+		"0.1.1" : [ "Próba zwiększenia movementu"],
 		"0.1.0" : [ "Nowy font"],
 >>>>>>> 76f1b4c (0.1.0)
 		"0.0.9" : [ "Nowy font"],
