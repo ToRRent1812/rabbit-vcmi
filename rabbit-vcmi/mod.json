@@ -7,6 +7,7 @@
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
 <<<<<<< HEAD
+<<<<<<< HEAD
 	"version" : "0.1.2",
 	"downloadSize" : 1,
 	"changelog" :
@@ -20,6 +21,13 @@
 	"changelog" :
 	{
 >>>>>>> af9b70b (0.0.9.1)
+=======
+	"version" : "0.1.0",
+	"downloadSize" : 1,
+	"changelog" :
+	{
+		"0.1.0" : [ "Nowy font"],
+>>>>>>> 76f1b4c (0.1.0)
 		"0.0.9" : [ "Nowy font"],
 		"0.0.8" : [ "Nowy font"],
 		"0.0.7" : [ "Nowy font"],
