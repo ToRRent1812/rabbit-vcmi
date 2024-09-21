@@ -6,10 +6,11 @@
 	"contact" : "",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-	"version" : "0.1.9",
+	"version" : "0.2.0",
 	"downloadSize" : 1,
 	"changelog" :
 	{
+		"0.2.0" : [ "Poprawka fonts.json"],
 		"0.1.9" : [ "Poprawka fonts.json"],
 		"0.1.8" : [ "Nowy font"],
 		"0.1.7" : [ "Nieudany Buff Wazonów z Pawilionu"],
