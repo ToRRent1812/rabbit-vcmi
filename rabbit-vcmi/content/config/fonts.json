@@ -13,55 +13,55 @@
 
   "trueType": {
     "BIGFONT": {
-      "file": "WenQuanYi-Micro-Hei-Regular.ttf",
+      "file": "TT-Firs-DemiBold.ttf",
       "size": 22,
       "blend": true
     },
 
     "CALLI10R": {
-      "file": "WenQuanYi-Micro-Hei-Regular.ttf",
+      "file": "TT-Firs-Medium.ttf",
       "size": 10,
       "blend": true
     },
 
     "CREDITS": {
-      "file": "WenQuanYi-Micro-Hei-Regular.ttf",
+      "file": "TT-Firs-Medium.ttf",
       "size": 28,
       "blend": true
     },
 
     "HISCORE": {
-      "file": "WenQuanYi-Micro-Hei-Regular.ttf",
+      "file": "TT-Firs-Medium.ttf",
       "size": 13,
       "blend": true
     },
 
     "MEDFONT": {
-      "file": "WenQuanYi-Micro-Hei-Regular.ttf",
-      "size": 16,
+      "file": "TT-Firs-DemiBold.ttf",
+      "size": 14,
       "blend": true
     },
 
     "SMALFONT": {
-      "file": "WenQuanYi-Micro-Hei-Regular.ttf",
-      "size": 13,
+      "file": "TT-Firs-Medium.ttf",
+      "size": 12,
       "blend": true
     },
 
     "TIMES08R": {
-      "file": "WenQuanYi-Micro-Hei-Regular.ttf",
+      "file": "TT-Firs-Medium.ttf",
       "size": 11,
       "blend": true
     },
 
     "TINY": {
-      "file": "WenQuanYi-Micro-Hei-Regular.ttf",
-      "size": 11,
+      "file": "TT-Firs-Medium.ttf",
+      "size": 10,
       "blend": true
     },
 
     "VERD10B": {
-      "file": "WenQuanYi-Micro-Hei-Regular.ttf",
+      "file": "TT-Firs-Medium.ttf",
       "size": 13,
       "blend": true
     }
