@@ -13,55 +13,55 @@
 
   "trueType": {
     "BIGFONT": {
-      "file": "LiberationSerif-Regular.ttf",
+      "file": "WenQuanYi-Micro-Hei-Regular.ttf",
       "size": 22,
       "blend": true
     },
 
     "CALLI10R": {
-      "file": "LiberationSerif-Regular.ttf",
+      "file": "WenQuanYi-Micro-Hei-Regular.ttf",
       "size": 10,
       "blend": true
     },
 
     "CREDITS": {
-      "file": "LiberationSerif-Regular.ttf",
+      "file": "WenQuanYi-Micro-Hei-Regular.ttf",
       "size": 28,
       "blend": true
     },
 
     "HISCORE": {
-      "file": "LiberationSerif-Regular.ttf",
+      "file": "WenQuanYi-Micro-Hei-Regular.ttf",
       "size": 13,
       "blend": true
     },
 
     "MEDFONT": {
-      "file": "LiberationSerif-Regular.ttf",
+      "file": "WenQuanYi-Micro-Hei-Regular.ttf",
       "size": 16,
       "blend": true
     },
 
     "SMALFONT": {
-      "file": "LiberationSerif-Regular.ttf",
+      "file": "WenQuanYi-Micro-Hei-Regular.ttf",
       "size": 13,
       "blend": true
     },
 
     "TIMES08R": {
-      "file": "LiberationSerif-Regular.ttf",
+      "file": "WenQuanYi-Micro-Hei-Regular.ttf",
       "size": 11,
       "blend": true
     },
 
     "TINY": {
-      "file": "LiberationSerif-Regular.ttf",
+      "file": "WenQuanYi-Micro-Hei-Regular.ttf",
       "size": 11,
       "blend": true
     },
 
     "VERD10B": {
-      "file": "LiberationSerif-Regular.ttf",
+      "file": "WenQuanYi-Micro-Hei-Regular.ttf",
       "size": 13,
       "blend": true
     }
