@@ -6,10 +6,11 @@
 	"contact" : "",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-	"version" : "0.2.2",
+	"version" : "0.2.3",
 	"downloadSize" : 1,
 	"changelog" :
 	{
+		"0.2.3" : [ "Czyszczenie pod vcmi 1.6"],
 		"0.2.2" : [ "Nowy font"],
 		"0.2.1" : [ "Przesunięcie fonts.json do poprawnego folderu"],
 		"0.2.0" : [ "Poprawka fonts.json"],
@@ -35,7 +36,7 @@
 	},
 	"compatibility" :
 	{
-		"min" : "1.5.7"
+		"min" : "1.6.0"
 	},
 	"depends" :
 	[
@@ -45,7 +46,6 @@
 		"haven-town",
 		"heroes-iii-orchestra",
 		"newtown-terrains",
-		"newtown-terrains.heatherThicket.grove-connect",
 		"newtown-terrains.deadlandTerrain"
 
 	],
@@ -53,8 +53,6 @@
 	[
 		"hota.mainMenu",
 		"tides-of-war.tow-main-menu",
-		"newtown-terrains.terraceLand.retreat-connect",
-		"newtown-terrains.deadlandTerrain.death-valley-connector",
 		"newtown-terrains.spoiledLand",
 		"vcmi-extras.trueTypeFonts",
 		"h3-themes"
