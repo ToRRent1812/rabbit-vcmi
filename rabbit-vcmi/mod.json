@@ -6,10 +6,11 @@
 	"contact" : "",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-	"version" : "0.2.4",
+	"version" : "0.2.5",
 	"downloadSize" : 1,
 	"changelog" :
 	{
+		"0.2.5" : [ "Usunięto rolowanie gildii ponieważ zostało dodane do hoty"],
 		"0.2.4" : [ "Dodano rolowanie gildii ala HOTA"],
 		"0.2.3" : [ "Czyszczenie pod vcmi 1.6"],
 		"0.2.2" : [ "Nowy font"],
@@ -78,10 +79,6 @@
 				}
 			}
 		},
-		"towns" :
-		{
-			"spellResearch" : true
-		}
 	},
 	"keepDisabled" : false
 }
