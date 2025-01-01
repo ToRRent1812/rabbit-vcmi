@@ -6,10 +6,11 @@
 	"contact" : "",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-	"version" : "0.2.7",
+	"version" : "0.2.8",
 	"downloadSize" : 1,
 	"changelog" :
 	{
+		"0.2.8" : [ "Dodano nowe wymagane mody ze względu na brak pvp-balance"],
 		"0.2.7" : [ "Tymczasowo usunięto pvp-balance mod"],
 		"0.2.6" : [ "Usunięto czcionkę i dodano nowe mody"],
 		"0.2.5" : [ "Usunięto rolowanie gildii ponieważ zostało dodane do hoty"],
@@ -44,6 +45,13 @@
 	},
 	"depends" :
 	[
+		"asphalt-terrain",
+		"new-pavilion",
+		"zefix",
+		"ruins-town",
+		"tides-of-war",
+		"hota",
+		"forge2k",
 		"courtyard",
 		"grove",
 		"haven-town",
@@ -56,6 +64,7 @@
 	"conflicts" :
 	[
 		"hota.mainMenu",
+		"hota.hotAcampaignHeroesInMaps",
 		"tides-of-war.tow-main-menu",
 		"newtown-terrains.spoiledLand",
 		"h3-themes"
