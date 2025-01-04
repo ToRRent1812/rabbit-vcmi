@@ -6,10 +6,11 @@
 	"contact" : "",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-	"version" : "0.2.8",
+	"version" : "0.2.9",
 	"downloadSize" : 1,
 	"changelog" :
 	{
+		"0.2.9" : [ "Dodano nowe miasto Warownia, dodano neutralne kreatury Kurka i toka"],
 		"0.2.8" : [ "Dodano nowe wymagane mody ze względu na brak pvp-balance"],
 		"0.2.7" : [ "Tymczasowo usunięto pvp-balance mod"],
 		"0.2.6" : [ "Usunięto czcionkę i dodano nowe mody"],
@@ -41,12 +42,12 @@
 	},
 	"compatibility" :
 	{
-		"min" : "1.6.1"
+		"min" : "1.6.2"
 	},
 	"depends" :
 	[
-		"asphalt-terrain",
 		"new-pavilion",
+		"highlands-town",
 		"zefix",
 		"ruins-town",
 		"tides-of-war",
@@ -57,6 +58,10 @@
 		"haven-town",
 		"preserve-town",
 		"hq-music",
+		"new-monsters-pack",
+		"new-monsters-pack.kurek-creatures",
+		"new-monsters-pack.tok",
+		"asphalt-terrain",
 		"newtown-terrains",
 		"newtown-terrains.deadlandTerrain"
 
@@ -65,6 +70,16 @@
 	[
 		"hota.mainMenu",
 		"hota.hotAcampaignHeroesInMaps",
+		"new-monsters-pack.carpet-whisperers",
+		"new-monsters-pack.doomMod",
+		"new-monsters-pack.dwarf-pack",
+		"new-monsters-pack.extra-creature-pack",
+		"new-monsters-pack.flugel",
+		"new-monsters-pack.invisible-man",
+		"new-monsters-pack.undeadSphinxes",
+		"new-monsters-pack.wicked-witch",
+		"new-monsters-pack.tok.more heroes",
+		"new-monsters-pack.lord-hawk-creatures-pack",
 		"tides-of-war.tow-main-menu",
 		"newtown-terrains.spoiledLand",
 		"h3-themes"
@@ -85,7 +100,7 @@
 			{
 				"landMovement" :
 				{
-					"val" : 1800
+					"val" : 1900
 				}
 			}
 		},
