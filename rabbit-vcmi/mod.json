@@ -6,11 +6,12 @@
 	"contact" : "",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-	"version" : "0.3.4",
+	"version" : "0.3.5",
 	"downloadSize" : 1,
 	"changelog" :
 	{
-		"0.3.4" : [ "test"],
+		"0.3.5" : [ "Test 2"],
+		"0.3.4" : [ "Test"],
 		"0.3.3" : [ "Naprawiono bonusowe kroki bo coś się zmieniło xD"],
 		"0.3.2" : [ "Dodano TOW Transformation altar jako depend"],
 		"0.3.1" : [ "Dodano polish-translation jako depend na wszelki wypadek"],
@@ -101,7 +102,17 @@
         "pathfinder" :
 		{
 			"originalFlyRules" : false
-		}
+		},
+		"bonuses" :
+		{
+			"perHero" :
+			{
+				"landMovement" :
+				{
+					"val" : 1000
+				}
+			}
+		},
 	},
 	"keepDisabled" : false
 }
