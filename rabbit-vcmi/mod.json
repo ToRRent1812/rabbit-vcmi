@@ -6,10 +6,11 @@
 	"contact" : "",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-	"version" : "0.3.7",
+	"version" : "0.4.0",
 	"downloadSize" : 1,
 	"changelog" :
 	{
+		"0.4.0" : [ "Wielkie zmiany, tymczasowy buff dla Kuźni póki nie wyjdzie PVP mod, dodano: Katedrę po renowacji, community HOTA, Połączone artefakty, usunięto: Gaj bo odstaje jakościowo, Nowe Stworzenia bo jest za ciężki w utrzymaniu"],
 		"0.3.7" : [ "Inna technika zwiększenia movementu"],
 		"0.3.6" : [ "Kolejna próba"],
 		"0.3.5" : [ "Test 2"],
@@ -50,7 +51,7 @@
 	},
 	"compatibility" :
 	{
-		"min" : "1.6.3"
+		"min" : "1.6.5"
 	},
 	"depends" :
 	[
@@ -58,20 +59,19 @@
 		"polish-translation",
 		"new-pavilion",
 		"highlands-town",
+		"cathedral-town",
+		"fused-artifacts",
 		"zefix",
 		"ruins-town",
 		"tides-of-war",
 		"tides-of-war.transformationAltar",
 		"hota",
+		"hota:supplementary",
 		"forge2k",
 		"courtyard",
-		"grove",
 		"haven-town",
 		"preserve-town",
 		"hq-music",
-		"new-monsters-pack",
-		"new-monsters-pack.kurek-creatures",
-		"new-monsters-pack.tok",
 		"asphalt-terrain",
 		"newtown-terrains",
 		"newtown-terrains.deadlandTerrain"
@@ -81,31 +81,35 @@
 	[
 		"hota.mainMenu",
 		"hota.hotAcampaignHeroesInMaps",
-		"new-monsters-pack.carpet-whisperers",
-		"new-monsters-pack.doomMod",
-		"new-monsters-pack.dwarf-pack",
-		"new-monsters-pack.extra-creature-pack",
-		"new-monsters-pack.flugel",
-		"new-monsters-pack.invisible-man",
-		"new-monsters-pack.undeadSphinxes",
-		"new-monsters-pack.wicked-witch",
-		"new-monsters-pack.tok.more heroes",
-		"new-monsters-pack.lord-hawk-creatures-pack",
+		"new-monsters-pack",
+		"grove",
 		"tides-of-war.tow-main-menu",
+		"tides-of-war.transformationAltar",
 		"newtown-terrains.spoiledLand",
 		"h3-themes"
 	],
+	"heroes" :
+	[
+		"config/heroesChanges.json"
+	],
+	"heroClasses" :
+	[
+		"config/heroes/heroClasses.json"
+	],
+	"creatures" :
+	[
+		"config/creaturesChanges.json"
+	],
+	"spells" :
+	[
+		"config/spellsChanges.json"
+	]
 	"settings" :
 	{
 		"spells":
 		{
             "dimensionDoorTournamentRulesLimit" : true
-        },
-		"heroes" :
-		{
-			"movementPointsLand" : [ 2000, 2000, 2000, 2000, 2060, 2130, 2200, 2260, 2330, 2400, 2460, 2500 ],
-			"movementPointsSea" : [ 2500 ]
-		},
+        }
 	},
 	"keepDisabled" : false
 }
