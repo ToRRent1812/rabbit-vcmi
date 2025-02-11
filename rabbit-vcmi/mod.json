@@ -6,16 +6,11 @@
 	"contact" : "",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-	"version" : "0.3.9",
+	"version" : "0.4.0",
 	"downloadSize" : 1,
 	"changelog" :
 	{
-<<<<<<< HEAD
 		"0.4.0" : [ "Wielkie zmiany, tymczasowy PVP balans, dodano: Katedrę po renowacji, community HOTA, Połączone artefakty, usunięto: Gaj bo odstaje jakościowo, Nowe Stworzenia bo jest za ciężki w utrzymaniu"],
-=======
-		"0.3.9" : [ "Hotfix, usunięto balans"],
-		"0.3.8" : [ "Wielkie zmiany, tymczasowy buff dla Kuźni póki nie wyjdzie PVP mod, dodano: Katedrę po renowacji, community HOTA, Połączone artefakty, usunięto: Gaj bo odstaje jakościowo, Nowe Stworzenia bo jest za ciężki w utrzymaniu"],
->>>>>>> vcmi-1.5/vcmi-1.6
 		"0.3.7" : [ "Inna technika zwiększenia movementu"],
 		"0.3.6" : [ "Kolejna próba"],
 		"0.3.5" : [ "Test 2"],
@@ -90,7 +85,6 @@
 		"newtown-terrains.spoiledLand",
 		"h3-themes"
 	],
-<<<<<<< HEAD
 	"heroes" :
 	[
 		"config/heroesChanges.json"
@@ -107,8 +101,6 @@
 	[
 		"config/spellsChanges.json"
 	],
-=======
->>>>>>> vcmi-1.5/vcmi-1.6
 	"settings" :
 	{
 		"spells":
