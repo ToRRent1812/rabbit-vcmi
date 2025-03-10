@@ -6,10 +6,11 @@
 	"contact" : "",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-	"version" : "0.4.0",
+	"version" : "0.4.1",
 	"downloadSize" : 1,
 	"changelog" :
 	{
+		"0.4.1" : [ "Usunięto PVP balans z moda bo jest już w vcmi"],
 		"0.4.0" : [ "Wielkie zmiany, tymczasowy PVP balans, dodano: Katedrę po renowacji, community HOTA, Połączone artefakty, usunięto: Gaj bo odstaje jakościowo, Nowe Stworzenia bo jest za ciężki w utrzymaniu"],
 		"0.3.7" : [ "Inna technika zwiększenia movementu"],
 		"0.3.6" : [ "Kolejna próba"],
@@ -51,12 +52,13 @@
 	},
 	"compatibility" :
 	{
-		"min" : "1.6.5"
+		"min" : "1.6.7"
 	},
 	"depends" :
 	[
 		"vcmi-extras",
 		"polish-translation",
+		"pvp-balance",
 		"new-pavilion",
 		"highlands-town",
 		"cathedral-town",
@@ -85,33 +87,5 @@
 		"newtown-terrains.spoiledLand",
 		"h3-themes"
 	],
-	"heroes" :
-	[
-		"config/heroesChanges.json"
-	],
-	"heroClasses" :
-	[
-		"config/heroes/heroClasses.json"
-	],
-	"creatures" :
-	[
-		"config/creaturesChanges.json"
-	],
-	"spells" :
-	[
-		"config/spellsChanges.json"
-	],
-	"settings" :
-	{
-		"spells":
-		{
-            "dimensionDoorTournamentRulesLimit" : true
-        },
-        "heroes":
-        {
-			"movementPointsLand" : [ 2000, 2000, 2000, 2000, 2060, 2130, 2200, 2260, 2330, 2400, 2460, 2500 ],
-			"movementPointsSea" : [ 2500 ]
-		}
-	},
 	"keepDisabled" : false
 }
