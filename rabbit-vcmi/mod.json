@@ -6,10 +6,11 @@
 	"contact" : "",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-	"version" : "0.4.2",
+	"version" : "0.4.3",
 	"downloadSize" : 1,
 	"changelog" :
 	{
+		"0.4.3" : [ "Dodano extended magic balance"],
 		"0.4.2" : [ "Włączono submody do pvp balance"],
 		"0.4.1" : [ "Usunięto PVP balans z moda bo jest już w vcmi"],
 		"0.4.0" : [ "Wielkie zmiany, tymczasowy PVP balans, dodano: Katedrę po renowacji, community HOTA, Połączone artefakty, usunięto: Gaj bo odstaje jakościowo, Nowe Stworzenia bo jest za ciężki w utrzymaniu"],
@@ -63,6 +64,8 @@
 		"pvp-balance.artifacts.extendedArtifactBalance",
 		"pvp-balance.heroes.extendedHeroBalance",
 		"pvp-balance.pvpTemplates.jebusCrossPlus",
+		"pvp-balance.spells.extendedSpellBalance",
+		"pvp-balance.spells.townPortalRework",
 		"new-pavilion",
 		"highlands-town",
 		"cathedral-town",
