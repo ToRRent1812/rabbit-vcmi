@@ -6,10 +6,11 @@
 	"contact" : "",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-	"version" : "0.4.4",
+	"version" : "0.4.5",
 	"downloadSize" : 1,
 	"changelog" :
 	{
+		"0.4.5" : [ "Usunięto część miast spoza pvp balance dla balansu. Zostawiam Przystań i Katedrę bo są w miarę zbalansowane. Dodałem nowe pola bitewne od kurka"],
 		"0.4.4" : [ "Włączyłem nowe army banki z pvp balans"],
 		"0.4.3" : [ "Dodano extended magic balance"],
 		"0.4.2" : [ "Włączono submody do pvp balance"],
@@ -55,7 +56,7 @@
 	},
 	"compatibility" :
 	{
-		"min" : "1.6.7"
+		"min" : "1.6.8"
 	},
 	"depends" :
 	[
@@ -65,8 +66,8 @@
 		"pvp-balance.artifacts.extendedArtifactBalance",
 		"pvp-balance.heroes.extendedHeroBalance",
 		"pvp-balance.spells.extendedSpellBalance",
-		"pvp-balance.spells.townPortalRework",
 		"pvp-balance.spells.controlSpells",
+		"pvp-balance.heroes.remadeEagleEyeHeroes",
 		"pvp-balance.objects.newArmyBanks",
 		"pvp-balance.objects.newArmyBanks.demonDomain",
 		"pvp-balance.objects.newArmyBanks.elderBrain",
@@ -74,22 +75,18 @@
 		"pvp-balance.objects.newArmyBanks.horseshoeLakeRuins",
 		"pvp-balance.objects.newArmyBanks.treantThicket",
 		"new-pavilion",
-		"highlands-town",
 		"cathedral-town",
-		"fused-artifacts",
 		"zefix",
 		"ruins-town",
+		"diverse-battlefields",
 		"tides-of-war",
+		"haven-town",
+		"fused-artifacts",
 		"hota",
 		"hota.supplementary",
 		"forge2k",
-		"courtyard",
-		"haven-town",
-		"preserve-town",
 		"hq-music",
 		"asphalt-terrain",
-		"newtown-terrains",
-		"newtown-terrains.deadlandTerrain"
 	],
 	"conflicts" :
 	[
@@ -97,10 +94,16 @@
 		"hota.hotAcampaignHeroesInMaps",
 		"new-monsters-pack",
 		"grove",
+		"courtyard",
+		"highlands-town",
+		"preserve-town",
 		"tides-of-war.tow-main-menu",
 		"newtown-terrains.spoiledLand",
 		"h3-themes",
-		"pvp-balance.factions.disableFactory"
+		"pvp-balance.factions.disableFactory",
+		"newtown-terrains",
+		"pvp-balance.spells.townPortalRework",
+		"h3evo"
 	],
 	"keepDisabled" : false
 }
