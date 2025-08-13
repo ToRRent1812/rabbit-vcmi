@@ -6,11 +6,12 @@
 	"contact" : "",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-	"version" : "0.4.6",
+	"version" : "0.5.0",
 	"downloadSize" : 1,
 	"changelog" :
 	{
-		"0.4.6" : [ "Usunięto część miast spoza pvp balance dla balansu. Zostawiam Katedrę bo są w miarę zbalansowane. Dodałem nowe pola bitewne od kurka"],
+		"0.5.0" : [ "Dodano Dodatek andruidsa oraz force vcmi 1.7. HD Textury"],
+		"0.4.6" : [ "Usunięto część miast spoza pvp balance dla balansu. Zostawiam Katedrę bo jest w miarę zbalansowana. Dodałem nowe pola bitewne od kurka"],
 		"0.4.4" : [ "Włączyłem nowe army banki z pvp balans"],
 		"0.4.3" : [ "Dodano extended magic balance"],
 		"0.4.2" : [ "Włączono submody do pvp balance"],
@@ -56,7 +57,7 @@
 	},
 	"compatibility" :
 	{
-		"min" : "1.6.8"
+		"min" : "1.7.0"
 	},
 	"depends" :
 	[
@@ -74,6 +75,8 @@
 		"pvp-balance.objects.newArmyBanks.fortifiedMaze",
 		"pvp-balance.objects.newArmyBanks.horseshoeLakeRuins",
 		"pvp-balance.objects.newArmyBanks.treantThicket",
+		"andruids-expansion",
+		"hd-remastered",
 		"new-pavilion",
 		"cathedral-town",
 		"zefix",
