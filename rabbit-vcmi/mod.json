@@ -6,10 +6,11 @@
 	"contact" : "",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-	"version" : "0.5.1",
+	"version" : "0.5.2",
 	"downloadSize" : 1,
 	"changelog" :
 	{
+		"0.5.2" : [ "Usunięto andruids i hd mod"],
 		"0.5.1" : [ "Usunięto artefakty scalone"],
 		"0.5.0" : [ "Dodano Dodatek andruidsa oraz force vcmi 1.7. HD Textury"],
 		"0.4.6" : [ "Usunięto część miast spoza pvp balance oraz ponieważ odstają jakością. Zostawiam Katedrę bo jest w miarę zbalansowana. Dodałem nowe pola bitewne od kurka"],
@@ -54,7 +55,6 @@
 		"polish-translation",
 		"zefix",
 		"hq-music",
-		"hd-remastered",
 		"pvp-balance",
 		"pvp-balance.artifacts.extendedArtifactBalance",
 		"pvp-balance.heroes.extendedHeroBalance",
@@ -67,7 +67,6 @@
 		"pvp-balance.objects.newArmyBanks.fortifiedMaze",
 		"pvp-balance.objects.newArmyBanks.horseshoeLakeRuins",
 		"pvp-balance.objects.newArmyBanks.treantThicket",
-		"andruids-expansion",
 		"new-pavilion",
 		"cathedral-town",
 		"ruins-town",
