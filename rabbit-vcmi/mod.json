@@ -6,10 +6,11 @@
 	"contact" : "",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-	"version" : "0.5.2",
+	"version" : "0.5.3",
 	"downloadSize" : 1,
 	"changelog" :
 	{
+		"0.5.3" : [ "Usunięto różnorodnme pola bitwy"],
 		"0.5.2" : [ "Usunięto andruids i hd mod"],
 		"0.5.1" : [ "Usunięto artefakty scalone"],
 		"0.5.0" : [ "Dodano Dodatek andruidsa oraz force vcmi 1.7. HD Textury"],
@@ -70,7 +71,6 @@
 		"new-pavilion",
 		"cathedral-town",
 		"ruins-town",
-		"diverse-battlefields",
 		"tides-of-war",
 		"tides-of-war.tow-main-menu",
 		"hota",
