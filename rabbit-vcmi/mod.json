@@ -6,10 +6,11 @@
 	"contact" : "",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-	"version" : "0.5.3",
+	"version" : "0.5.4",
 	"downloadSize" : 1,
 	"changelog" :
 	{
+		"0.5.4" : [ "Usunięto niekompatybilne mody"],
 		"0.5.3" : [ "Usunięto różnorodnme pola bitwy"],
 		"0.5.2" : [ "Usunięto andruids i hd mod"],
 		"0.5.1" : [ "Usunięto artefakty scalone"],
@@ -48,7 +49,7 @@
 	},
 	"compatibility" :
 	{
-		"min" : "1.7.0"
+		"min" : "1.7.3"
 	},
 	"depends" :
 	[
@@ -56,18 +57,18 @@
 		"polish-translation",
 		"zefix",
 		"hq-music",
-		"pvp-balance",
-		"pvp-balance.artifacts.extendedArtifactBalance",
-		"pvp-balance.heroes.extendedHeroBalance",
-		"pvp-balance.spells.extendedSpellBalance",
-		"pvp-balance.spells.controlSpells",
-		"pvp-balance.heroes.remadeEagleEyeHeroes",
-		"pvp-balance.objects.newArmyBanks",
-		"pvp-balance.objects.newArmyBanks.demonDomain",
-		"pvp-balance.objects.newArmyBanks.elderBrain",
-		"pvp-balance.objects.newArmyBanks.fortifiedMaze",
-		"pvp-balance.objects.newArmyBanks.horseshoeLakeRuins",
-		"pvp-balance.objects.newArmyBanks.treantThicket",
+		//"pvp-balance",
+		//"pvp-balance.artifacts.extendedArtifactBalance",
+		//"pvp-balance.heroes.extendedHeroBalance",
+		//"pvp-balance.spells.extendedSpellBalance",
+		//"pvp-balance.spells.controlSpells",
+		//"pvp-balance.heroes.remadeEagleEyeHeroes",
+		//"pvp-balance.objects.newArmyBanks",
+		//"pvp-balance.objects.newArmyBanks.demonDomain",
+		//"pvp-balance.objects.newArmyBanks.elderBrain",
+		//"pvp-balance.objects.newArmyBanks.fortifiedMaze",
+		//"pvp-balance.objects.newArmyBanks.horseshoeLakeRuins",
+		//"pvp-balance.objects.newArmyBanks.treantThicket",
 		"new-pavilion",
 		"cathedral-town",
 		"ruins-town",
