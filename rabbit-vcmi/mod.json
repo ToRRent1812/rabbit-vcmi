@@ -6,11 +6,12 @@
 	"contact" : "",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-	"version" : "0.5.7",
+	"version" : "0.5.8",
 	"downloadSize" : 1,
 	"changelog" :
 	{
-		"0.5.7" : [ "Usunięto warownie, dodano hidden potential"],
+		"0.5.8" : [ "Usunięto hidden potential"],
+		"0.5.7" : [ "Usunięto warownie"],
 		"0.5.6" : [ "Powrót 2 miast oraz dodano simple game balance"],
 		"0.5.5" : [ "Poprawka json"],
 		"0.5.4" : [ "Usunięto niekompatybilne mody"],
@@ -69,7 +70,6 @@
 		"hota",
 		"hota.supplementary",
 		"forge2k",
-		"creatures-hidden-potential",
 		"asphalt-terrain"
 	],
 	"conflicts" :
@@ -81,7 +81,7 @@
 		"courtyard",
 		"highlands-town",
 		"haven-town",
-		"newtown-terrains.spoiledLand",
+		"creatures-hidden-potential",
 		"h3-themes",
 		"newtown-terrains",
 		"h3evo"
