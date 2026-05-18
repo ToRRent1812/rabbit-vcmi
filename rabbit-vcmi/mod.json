@@ -6,7 +6,7 @@
 	"contact" : "",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-	"version" : "0.5.8",
+	"version" : "0.5.9",
 	"downloadSize" : 1,
 	"changelog" :
 	{
@@ -61,7 +61,8 @@
 		"polish-translation",
 		"zefix",
 		"hq-music",
-		"simple-game-balance",
+		"ultimate-balance",
+		"ultimate-balance.towns-balance",
 		"new-pavilion",
 		"cathedral-town",
 		"ruins-town",
@@ -76,6 +77,9 @@
 	[
 		"hota.mainMenu",
 		"hota.hotAcampaignHeroesInMaps",
+		"ultimate-balance.ai-balance",
+		"ultimate-balance.skills-balance",
+		"ultimate-balance.spells-balance",
 		"new-monsters-pack",
 		"grove",
 		"courtyard",
