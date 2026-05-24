@@ -6,10 +6,11 @@
 	"contact" : "",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-	"version" : "0.5.9",
+	"version" : "0.6.0",
 	"downloadSize" : 1,
 	"changelog" :
 	{
+		"0.6.0" : [ "Usunięto simple balance"],
 		"0.5.8" : [ "Usunięto hidden potential"],
 		"0.5.7" : [ "Usunięto warownie"],
 		"0.5.6" : [ "Powrót 2 miast oraz dodano simple game balance"],
@@ -61,8 +62,6 @@
 		"polish-translation",
 		"zefix",
 		"hq-music",
-		"ultimate-balance",
-		"ultimate-balance.towns-balance",
 		"new-pavilion",
 		"cathedral-town",
 		"ruins-town",
@@ -77,9 +76,6 @@
 	[
 		"hota.mainMenu",
 		"hota.hotAcampaignHeroesInMaps",
-		"ultimate-balance.ai-balance",
-		"ultimate-balance.skills-balance",
-		"ultimate-balance.spells-balance",
 		"new-monsters-pack",
 		"grove",
 		"courtyard",
