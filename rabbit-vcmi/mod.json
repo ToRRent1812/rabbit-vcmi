@@ -6,10 +6,11 @@
 	"contact" : "",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-	"version" : "0.6.0",
+	"version" : "0.6.1",
 	"downloadSize" : 1,
 	"changelog" :
 	{
+		"0.6.1" : [ "Ruiny mają stary, czytelny layout"],
 		"0.6.0" : [ "Usunięto simple balance"],
 		"0.5.8" : [ "Usunięto hidden potential"],
 		"0.5.7" : [ "Usunięto warownie"],
@@ -65,6 +66,7 @@
 		"new-pavilion",
 		"cathedral-town",
 		"ruins-town",
+		"ruins-town.legacy",
 		"tides-of-war",
 		"preserve-town",
 		"hota",
@@ -84,7 +86,9 @@
 		"creatures-hidden-potential",
 		"h3-themes",
 		"newtown-terrains",
-		"h3evo"
+		"tides-of-war.tow-main-menu",
+		"h3evo",
+		"ultimate-balance"
 	],
 	"keepDisabled" : false
 }
